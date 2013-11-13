@@ -7,11 +7,13 @@ Installation
 ------------
 
 ```json
-"repositories": [
-    { "type": "vcs", "url": "git@github.com:boxlight/php-opencloud-service-provider.git" }
-],
-"require": {
-    "boxlight/php-opencloud-service-provider": "dev-master"
+{
+    "repositories": [
+        { "type": "vcs", "url": "git@github.com:boxlight/php-opencloud-service-provider.git" }
+    ],
+    "require": {
+        "boxlight/php-opencloud-service-provider": "dev-master"
+    }
 }
 ```
 
