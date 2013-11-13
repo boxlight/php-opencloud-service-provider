@@ -17,12 +17,11 @@ Installation
 }
 ```
 
-Initialise
+Initialisation
 ----------
 
 ```php
 <?php
-
     // bootstrap.php
     $app->register(new Boxlight\Silex\Provider\OpenCloud\OpenCloudServiceProvider(), array(
 
@@ -51,12 +50,11 @@ Initialise
     ));
 ```
 
-Use
+Usage
 ---
 
 ```php
 <?php
-
     // helloworld.php
     $store = $app['opencloud']->objectStoreService('cloudFiles', 'LON', 'publicURL');
     $container = $store->getContainer('my container');
