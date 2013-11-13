@@ -1,7 +1,10 @@
 php-opencloud-service-provider
 ==============================
 
-A basic service provider for [rackspace/php-opencloud](https://github.com/rackspace/php-opencloud). Knowledge of the rackspace/php-opencloud library is required.
+A basic [Silex](https://github.com/silexphp/Silex) service provider for
+[rackspace/php-opencloud](https://github.com/rackspace/php-opencloud).
+
+Knowledge of the rackspace/php-opencloud library is required.
 
 Installation
 ------------
