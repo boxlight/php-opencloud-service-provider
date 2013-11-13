@@ -16,7 +16,7 @@ use OpenCloud;
  *
  * @author Robert Cambridge <robert@boxlightmedia.com>
  */
-class DoctrineOrmServiceProvider implements ServiceProviderInterface
+class OpenCloudServiceProvider implements ServiceProviderInterface
 {
     public function boot(Application $app)
     {
