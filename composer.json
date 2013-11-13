@@ -1,7 +1,7 @@
 {
     "name": "boxlight/php-opencloud-service-provider",
     "description": "php-opencloud-service-provider",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Robert Cambridge",
